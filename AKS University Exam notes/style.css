@@ -39,7 +39,13 @@ section {
     width: 200px;
 }
 
-
+#cont{
+    display: flex;
+    justify-content: space-around;
+    max-width: 40vw;
+    gap: 10px;
+    margin: auto;
+}
 footer {
     background-color: #333;
     color: #fff;
